@@ -23,6 +23,6 @@ _(A special account required to test this PR)_
 _(Step by step explanation on how to test this PR)_
 
 # Additional information
-_(Any possible impact/hidden or know issue regarding this PR which may help reviewer)_
+_(Any possible impact, hidden or know issue regarding this PR which may help reviewer)_
 
-# Screenshots
+# Screenshots [Optional]
