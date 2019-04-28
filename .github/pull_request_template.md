@@ -1,4 +1,4 @@
-# \U002728 Feature Pull request
+# ✨ Feature Pull request
 
 # Description
 JIRA Ticket:  _(Include Jira ticket link here)_
