@@ -1,4 +1,4 @@
-#\U0002728 Bug fix Pull request
+#\U002728 Bug fix Pull request
 
 # Description
 JIRA Ticket:  _(Include Jira ticket link here)_
