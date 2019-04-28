@@ -2,8 +2,9 @@
 name: "\U0002728 New Feature"
 about: "The PR contains new featurue or an extension of existing feature"
 title: "\U0002728[Feature]"
-labels: 'Waiting for QA Approavl, Waiting for PO Approval'
+labels: ''
 assignees: ''
+
 ---
 
 # Description
