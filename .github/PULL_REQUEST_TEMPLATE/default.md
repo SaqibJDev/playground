@@ -1,11 +1,4 @@
----
-name: "\U0002728 Bug fix"
-about: "The PR contains a fix for a Bug"
-title: "\U0002728[Bug]"
-labels: ''
-assignees: ''
-
----
+# \U0002728 Feature Pull request
 
 # Description
 JIRA Ticket:  _(Include Jira ticket link here)_
